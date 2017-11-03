@@ -2,7 +2,8 @@
 
 To use this autosplitter, download LiveSplit.Dye.asl and add a
 "Scriptable Auto Splitter" component to your LiveSplit layout pointing to
-the file location.
+the file location. You'll need to start the timer manually, but splits will
+be handled automatically as described below.
 
 Splits are determined either by your total pigment count or by defeating
 a boss. For non-boss splits, the autosplitter assumes that you will be
